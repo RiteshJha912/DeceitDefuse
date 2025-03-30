@@ -27,9 +27,8 @@ const News = () => {
   const [showShareModal, setShowShareModal] = useState(false);
   const [selectedArticle, setSelectedArticle] = useState(null);
 
-  const API_KEY = import.meta.env.VITE_NEWS_API_KEY;
-  // Enhanced query to focus on cybersecurity topics
-  const API_URL = `https://newsapi.org/v2/everything?q=(cybersecurity OR "cyber security" OR "cyber attack" OR "data breach" OR "ransomware" OR "malware" OR "phishing" OR "hackers" OR "cybercrime" OR "cyber threat")&language=en&sortBy=publishedAt&apiKey=${API_KEY}`;
+  const API_KEY = '84941dd1ddec4158a1237e9d856ec371' // Replace with your actual API key
+  const API_URL = `https://newsapi.org/v2/everything?q=(cybersecurity OR "cyber security" OR "cyber attack" OR "data breach" OR "ransomware" OR "malware" OR "phishing" OR "hackers" OR "cybercrime" OR "cyber threat")&language=en&sortBy=publishedAt&apiKey=${API_KEY}`
 
   useEffect(() => {
     fetchNews();
