@@ -1,0 +1,141 @@
+/* Improved CybersecurityTools.css */
+
+.tools-container {
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  color: #333;
+}
+
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Standard 3 boxes per row */
+  gap: 1.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.tool-card {
+  background-color: #ffffff; /* Standard box color */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  width: 220px;
+}
+
+.tool-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.tool-card.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.tool-icon {
+  font-size: 2.5rem;
+  color: #007bff; /* Standard icon color */
+  margin-bottom: 1rem;
+}
+
+.tool-title {
+  font-size: 1.25rem;
+  color: #222;
+  margin-bottom: 0.5rem;
+}
+
+.tool-description {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.tool-price {
+  font-size: 1.1rem;
+  color: #007bff; /* Highlight price in standard color */
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.tool-btn {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+
+.tool-btn:hover {
+  background-color: #0056b3;
+}
+
+.tool-display {
+  background-color: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+.tool-detail input {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: calc(100% - 1rem);
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.cyber-tools-container {
+  padding: 2rem;
+  background-color: #f4f4f4; /* Standard background color */
+  color: #333;
+  font-family: 'Arial', sans-serif;
+}
+
+.tools-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tools-header h1 {
+  font-size: 2.5rem;
+  color: #222;
+}
+
+.tools-header p {
+  font-size: 1rem;
+  color: #555;
+}
