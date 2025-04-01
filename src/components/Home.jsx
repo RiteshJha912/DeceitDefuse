@@ -90,6 +90,9 @@ const Home = () => {
               <Link to='/guide' className='cta-button primary'>
                 Access Security Protocols
               </Link>
+              <Link to='/tools' className='cta-button secondary'>
+                Security Tools
+              </Link>
             </div>
           </div>
           <div className='hero-right'>
