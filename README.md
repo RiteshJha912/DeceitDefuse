@@ -22,8 +22,6 @@ Deceit Defused is a comprehensive cyber awareness and hacking prevention platfor
   - Corporate entities
   - Government organizations
 
-- **Latest Cyber News**  
-  Stay informed with the latest developments and news in the cybersecurity landscape.
 
 ---
 
