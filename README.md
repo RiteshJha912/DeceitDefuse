@@ -52,7 +52,7 @@ deceit-defused/
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **React** – Frontend library for building user interfaces
 - **Vite** – Fast build tool and development server
