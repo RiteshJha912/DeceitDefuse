@@ -2,16 +2,16 @@
 
 **Live Site:** [https://deceit-defused.vercel.app/](https://deceit-defused.vercel.app/)
 
-Deceit Defused is a comprehensive cyber awareness and hacking prevention platform designed to educate, engage, and empower users to defend against digital threats. Tailored for individuals, students, organizations, and government officials, the platform provides learning resources, assessment tools, and an intuitive incident reporting system to foster a safer digital environment.
+Deceit Defused is a comprehensive cyber awareness and hacking prevention platform designed to educate, engage, and empower users to defend against digital threats. Tailored for individuals, students, organizations, and government officials, the platform provides learning resources, assessment tools and an intuitive incident reporting system to foster a safer digital environment.
 
-**Note:** This platform was conceptualized, developed, and deployed from code to production in under **2.5 hours** — showcasing a rapid prototyping workflow and agile development efficiency.
+**Note:** This platform was conceptualized, developed and deployed from code to production in under **2.5 hours** — showcasing a rapid prototyping workflow and agile development efficiency.
 
 ---
 
 ##  Features
 
 - **Security Academy**  
-  Learn the fundamentals and advanced concepts of digital security, cyber hygiene, and asset protection.
+  Learn the fundamentals and advanced concepts of digital security, cyber hygiene and asset protection.
 
 - **Cyber Awareness Quiz**  
   Test your cybersecurity knowledge with tiered quizzes (Basic & Advanced) to evaluate and improve awareness levels.
