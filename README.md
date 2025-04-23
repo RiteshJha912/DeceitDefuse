@@ -17,11 +17,10 @@ Deceit Defused is a comprehensive cyber awareness and hacking prevention platfor
   Test your cybersecurity knowledge with tiered quizzes (Basic & Advanced) to evaluate and improve awareness levels.
 
 - **Incident Reporting**  
-  Report cybersecurity incidents using purpose-built forms tailored for:
-  - Individuals
-  - Corporate entities
-  - Government organizations
-
+  Report cybersecurity incidents using purpose-built forms
+ 
+- **Cyber News** 
+  Features the latest news and updates from the world of hacking and cyber attacks
 
 ---
 
