@@ -45,7 +45,7 @@ const Footer = () => {
         <p>
           &copy; {new Date().getFullYear()} DeceitDefused. All rights reserved.
         </p>
-        <p>Designed and Developed with ❤️ by Ritesh</p>
+        <p>Designed and Developed by Ritesh Jha</p>
       </div>
     </footer>
   )
