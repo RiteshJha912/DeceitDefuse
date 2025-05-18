@@ -8,7 +8,8 @@ const Footer = () => {
         <div className='footer-section'>
           <h3>DeceitDefused</h3>
           <p>
-            Your trusted partner in cybersecurity education and digital safety.
+            Your trusted partner in cybersecurity education and digital safety,
+            based in Mumbai.
           </p>
         </div>
         <div className='footer-section'>
@@ -32,8 +33,11 @@ const Footer = () => {
           <h4>Contact</h4>
           <ul>
             <li>Email: support@deceitdefused.com</li>
-            <li>Phone: +1 (555) 123-4567</li>
-            <li>Address: 123 Cyber Street, Digital City</li>
+            <li>Phone: +91 98190 12345</li>
+            <li>
+              Address: 504 Tech Heights, Andheri East, Mumbai, Maharashtra,
+              India - 400059
+            </li>
           </ul>
         </div>
       </div>
@@ -41,6 +45,7 @@ const Footer = () => {
         <p>
           &copy; {new Date().getFullYear()} DeceitDefused. All rights reserved.
         </p>
+        <p>Designed and Developed with ❤️ by Ritesh</p>
       </div>
     </footer>
   )
