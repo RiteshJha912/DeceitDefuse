@@ -4,8 +4,7 @@
 
 Deceit Defused is a comprehensive cyber awareness and hacking prevention platform designed to educate, engage, and empower users to defend against digital threats. 
 
-**Note:** This platform was conceptualized, developed and deployed from code to production in under **2.5 hours** — showcasing a rapid prototyping workflow and agile development efficiency.
-
+**might as well know:** This platform was conceptualized, developed and deployed from code to production in under **2.5 hours**.
 ---
 
 ##  Features
